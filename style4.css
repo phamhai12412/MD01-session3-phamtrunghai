@@ -1,0 +1,34 @@
+.card {
+    width: 250px;
+    height: 580px;
+    margin: auto;
+    border: 1px solid black;
+
+}
+
+.cap {
+    height: 200px;
+    width: 100%;
+    background-color: rgb(251, 247, 241);
+    font-size: 40px;
+    text-align: center;
+}
+
+.title {
+    width: 88%;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
+b {
+    font-size: 25px;
+}
+
+.phannho {
+    padding-left: 30px;
+    font-size: 20px;
+}
+
+.link {
+    padding-left: 30px;
+}

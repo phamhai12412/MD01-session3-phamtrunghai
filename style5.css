@@ -1,0 +1,61 @@
+.khung {
+    width: 550px;
+    height: 1100 px;
+    margin: auto;
+    background-color: antiquewhite;
+}
+
+.baoquanh {
+    width: 500px;
+    height: 250px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 28px;
+}
+
+.buttun {
+    background-color: blue;
+    color: #fff;
+    font-size: 30px;
+    border-radius: 10px;
+
+}
+
+.dau {
+    background-color: rgb(233, 236, 238);
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 25px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+
+}
+
+
+.giua {
+    background-color: aliceblue;
+    padding-top: 1px;
+    padding-bottom: 25px;
+    border: 1px solid black;
+}
+
+.cuoi {
+    background-color: rgb(233, 236, 238);
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.toankhung {
+    width: 550px;
+    height: 300px;
+    margin: auto;
+    background-color: antiquewhite;
+    padding-top: 25px;
+    padding-left: 23px;
+}

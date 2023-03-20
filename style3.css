@@ -1,0 +1,24 @@
+.container {
+    padding-top: 20px;
+    padding-left: 30px;
+    width: 700px;
+    height: auto;
+
+}
+
+.tieude {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+p {
+    font-size: 25px;
+    margin-top: -33px;
+}
+
+.tong {
+    background-color: #edf8cd;
+    height: 680px;
+    width: 750px;
+    margin: auto;
+}

@@ -1,0 +1,66 @@
+.a1 {
+    color: red;
+
+}
+
+.a2 {
+    border: 5px solid green;
+    text-align: center;
+}
+
+.a3 {
+    background-color: rgba(146, 153, 159, 0.855);
+    height: 250px;
+
+}
+
+.a3 p {
+    padding-top: 15px;
+    font-size: 22px;
+    padding-left: 30px;
+
+}
+
+.b1 {
+    padding-left: 30px;
+}
+
+.a3a {
+    width: 90%;
+    height: 80px;
+    background-color: rgb(240, 248, 255);
+    margin-top: 20px;
+    margin-left: 30px;
+    border-left: 17px solid green;
+}
+
+.a4 {
+    color: red;
+
+}
+
+.a3aa {
+    color: rgb(230, 54, 54);
+}
+
+.a3aaa {
+    color: black;
+}
+
+.a3aab {
+    color: red;
+    padding-left: 10px;
+}
+
+.a3aac {
+    color: blue;
+}
+
+.button {
+    font-size: 40px;
+    border-radius: 15px;
+    background-color: aquamarine;
+    color: #fff;
+    margin-left: 30px;
+    margin-top: 30px;
+}

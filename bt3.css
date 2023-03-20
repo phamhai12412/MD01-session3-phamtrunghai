@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+
+
+    padding: 0;
+}
+
+.container {
+    width: 500px;
+    text-align: center;
+    margin: auto;
+
+}
+
+.mucluc li {
+    list-style: none;
+
+}
+
+h5 {
+    color: rgb(19, 93, 212);
+
+}
+
+#color {
+    color: rgb(162, 4, 41);
+}

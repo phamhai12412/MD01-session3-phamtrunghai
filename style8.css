@@ -1,0 +1,42 @@
+.baoquanh {
+    width: 550px;
+    height: 30px;
+
+    margin: auto;
+}
+
+.dau {
+    border: 1px solid black;
+
+}
+
+.daua {
+    padding-left: 30px;
+    font-size: 30px;
+}
+
+.daub {
+    margin-left: 460px;
+    border-radius: 10px;
+    font-size: 30px;
+    color: rgb(99, 95, 239);
+    border: 0;
+}
+
+#vientren {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#vienduoi {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+#chinh {
+    border: 1px solid black;
+}
+
+.span {
+    color: red;
+}
